@@ -1,0 +1,8 @@
+# Go build output
+/bin/
+/*.exe
+/*.out
+
+# IDEs
+.idea/
+.vscode/
