@@ -6,8 +6,8 @@ A minimal Go web application that serves a static HTML form and handles form sub
 
 ## 📸 Screenshots
 
-![Form Page](images/form-page.png)
-![Form Submission Result](images/form-result.png)
+![Form Page](images/form-page.PNG)
+![Form Submission Result](images/form-result.PNG)
 
 ---
 
